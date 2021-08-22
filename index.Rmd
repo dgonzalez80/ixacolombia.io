@@ -1,0 +1,52 @@
+---
+title: "  "
+output:
+  html_document:
+    frontsize: 16pt
+    toc: yes
+    toc_depth: 2
+    toc_float: yes
+    theme: cosmo
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+---
+
+#  **ixaColombia **
+![](img/caratula1.png){width=80%'}
+![](img/1.png)<br/><br/><br/>
+
+# **Nuestro Equipo**
+
+<br/><br/>
+![](img/EM5.png)<br/>
+
+<br/><br/>
+![](img/LM5.png)<br/>
+
+<br/><br/>
+![](img/DG5.png)<br/>
+
+<br/><br/>
+
+# **Nuestra oferta**
+<br/>
+
++ Identificar oportunidades de negocio y proveer soluciones a la medida
+ 
++ Creación e implementación de modelos AI Machine Learning / Deep Learning
+
++ Uso de herramientas analíticas y lenguajes  Python, R, SAS, Stata
+
++ Aseguramos valor agregado para la entidad, profesionales y usuarios de la salud
+
+    + En el profesional médico, optimiza el tiempo de consulta para dedicarlo a la investigación
+    + En la entidad prestadora de servicio, puede ser más eficiente , mejorando el retorno de la inversión y optimitazación los recusos de tiempo
+    + En el usuario previene desenlaces catastóficos, mejorando de calidad de vida a tiempo con un diagnóstico más preciso
+
+<br/><br/>
+
+# **Contactos**
+<br/><br/>
+![](img/Contactos.png)<br/>
+
